@@ -7,3 +7,10 @@ data-struct:
 
 	Linear-Structure
 	  |-->Linklist
+
+algorithm:
+
+	some algorithms learning by myself
+
+	algorithm
+	  |-->Sort
