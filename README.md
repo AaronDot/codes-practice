@@ -7,6 +7,8 @@ data-struct:
 
 	Linear-Structure
 	  |-->Linklist
+	  |-->Tree
+	        |-->BinTree
 
 algorithm:
 
