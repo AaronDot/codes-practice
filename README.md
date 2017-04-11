@@ -9,6 +9,7 @@ data-struct:
 	  |-->Linklist
 	  |-->Tree
 	        |-->BinTree
+	        |-->RBTree
 
 algorithm:
 
