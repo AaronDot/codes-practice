@@ -10,6 +10,7 @@ data-struct:
 	  |-->Tree
 	        |-->BinTree
 	        |-->RBTree
+	  |-->HashSet
 
 algorithm:
 
