@@ -12,6 +12,7 @@ data-struct:
 	        |-->RBTree
 		|-->BSTree
 		|-->AVLTree
+		|-->SplayTree
 	  |-->HashSet
 	  |-->HashMap
 
