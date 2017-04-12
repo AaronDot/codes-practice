@@ -10,6 +10,7 @@ data-struct:
 	  |-->Tree
 	        |-->BinTree
 	        |-->RBTree
+		|-->BSTree
 	  |-->HashSet
 	  |-->HashMap
 
