@@ -11,6 +11,7 @@ data-struct:
 	        |-->BinTree
 	        |-->RBTree
 		|-->BSTree
+		|-->AVLTree
 	  |-->HashSet
 	  |-->HashMap
 
