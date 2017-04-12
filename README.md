@@ -11,6 +11,7 @@ data-struct:
 	        |-->BinTree
 	        |-->RBTree
 	  |-->HashSet
+	  |-->HashMap
 
 algorithm:
 
