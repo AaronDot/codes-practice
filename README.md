@@ -20,6 +20,7 @@ data-struct:
 		      |-->MaxHeap
 		      |-->MinHeap
 	        |-->Leftist
+	        |-->SkewHeap
 
 algorithm:
 
