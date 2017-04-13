@@ -19,6 +19,7 @@ data-struct:
 	        |-->BinHeap
 		      |-->MaxHeap
 		      |-->MinHeap
+	        |-->Leftist
 
 algorithm:
 
