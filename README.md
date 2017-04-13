@@ -15,6 +15,10 @@ data-struct:
 		|-->SplayTree
 	  |-->HashSet
 	  |-->HashMap
+	  |-->Heap
+	        |-->BinHeap
+		      |-->MaxHeap
+		      |-->MinHeap
 
 algorithm:
 
