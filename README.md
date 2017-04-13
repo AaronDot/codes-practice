@@ -21,6 +21,7 @@ data-struct:
 		      |-->MinHeap
 	        |-->Leftist
 	        |-->SkewHeap
+	        |-->BinomialHeap
 
 algorithm:
 
