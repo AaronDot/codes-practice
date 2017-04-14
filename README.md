@@ -22,6 +22,7 @@ data-struct:
 	        |-->Leftist
 	        |-->SkewHeap
 	        |-->BinomialHeap
+	        |-->FibonacciHeap
 
 algorithm:
 
