@@ -23,6 +23,10 @@ data-struct:
 	        |-->SkewHeap
 	        |-->BinomialHeap
 	        |-->FibonacciHeap
+	  |-->Graph
+	        |-->UndirectedGraph
+		      |-->ListUndirectedGraph
+		      |-->MatrixUndirectedGraph
 
 algorithm:
 
