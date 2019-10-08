@@ -34,3 +34,10 @@ algorithm:
 
 	algorithm
 	  |-->Sort
+
+leetcode:
+
+    leetcode practise
+
+    leetcode
+      |-->0001-Two-Sum
