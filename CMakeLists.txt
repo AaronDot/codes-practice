@@ -1,4 +1,5 @@
-cmake_minimum_required(VERSION 2.8.5)
+cmake_minimum_required(VERSION 3.10.2)
 project(codes-practice)
 add_subdirectory(data-struct data-struct-bin)
 add_subdirectory(algorithm algorithm-bin)
+add_subdirectory(leetcode leetcode-bin)

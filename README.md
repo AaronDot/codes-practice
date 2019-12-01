@@ -34,3 +34,10 @@ algorithm:
 
 	algorithm
 	  |-->Sort
+
+leetcode:
+
+    leetcode practice soultion
+
+    0001-Two-Sum/0001-Two-Sum.c -- array
+
